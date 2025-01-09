@@ -1,0 +1,4 @@
+# Ignore Windows system directories
+AppData/
+*.log
+*.tmp
